@@ -1,0 +1,6 @@
+framework module Pods_ZMLTestDemo_Tests {
+  umbrella header "Pods-ZMLTestDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

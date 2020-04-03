@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZMLTestDemo_Tests' do
+  pod 'ZMLTestDemo', :path => '../'
+  
+  
+end

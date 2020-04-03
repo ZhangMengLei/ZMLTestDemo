@@ -1,0 +1,16 @@
+PODS:
+  - ZMLTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZMLTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZMLTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMLTestDemo: 9160190255ed9b8a017a988c8e1eb1f1d0e568fa
+
+PODFILE CHECKSUM: 45f6a0f4efeabb44a6d073e1953d53d3fbf525a1
+
+COCOAPODS: 1.9.1

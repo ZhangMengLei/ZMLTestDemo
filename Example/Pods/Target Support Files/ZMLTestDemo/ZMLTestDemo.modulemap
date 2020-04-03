@@ -1,0 +1,6 @@
+framework module ZMLTestDemo {
+  umbrella header "ZMLTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
